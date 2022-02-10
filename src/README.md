@@ -1,4 +1,4 @@
-# shufler
+# Shuffler
 
 A new Flutter project.
 
